@@ -1,28 +1,28 @@
-#absolute{
+.absolute{
     position: absolute;
     top: 30px;
     right: 30px;
-    width: 200%;
-    height: 180%;
+    width: 200px;
+    height: 180px;
     background-color: palevioletred;
 }
-#fixed{
+.fixed{
     position: fixed;
     bottom: 20px;
     right: 20px;
-    height: 180%;
-    width: 200%;
-    background-color: azure;
-}
-#contenitore{
+    height: 180px;
     width: 200px;
+    background-color: rgb(0, 255, 255);
+}
+.contenitore{
+    width: 500px;
     height: 1000px;
 }
-#sticky{
+.sticky{
     position: sticky;
     top: 50px;
     right: 20px;
     width: 100px;
     height: 180px;
-    background-color: whitesmoke;
+    background-color: violet;
 }
