@@ -1,0 +1,75 @@
+header {
+    text-align: center;
+    margin-bottom: 2rem;
+  }
+  
+  h1 {
+    font-weight: 700;
+    font-size: 2.5rem;
+    margin-bottom: 0;
+  }
+  
+  #main {
+    width: 80%;
+    margin: 0 auto;
+  }
+  
+  h1,h2, h3, h4{font-family: "Tajawal", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+  }
+ 
+   
+  
+  
+  h2 {
+    font-size: 2rem;
+  }
+  
+  h3 {
+    font-size: 1.5rem;
+  }
+  
+  figcaption {
+    font-size: 0.8rem;
+    color: #ff5ea4dc;
+    margin-top: 0.5rem;
+  }
+  
+  #img-div {
+    text-align: center;
+    margin-bottom: 2rem;
+  }
+  
+  #image {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  #tribute-info {
+    line-height: 1.6;
+  }
+  
+  #tribute-link {
+    display: block;
+    text-align: center;
+    margin-top: 2rem;
+    text-transform: uppercase;
+    font-weight: 700;
+    color: #FFF;
+    background-color: #ff7dc0;
+    padding: 0.5rem;
+    border-radius: 0.2rem;
+    transition: all 0.3s;
+  }
+  
+  #tribute-link:hover {
+    background-color: #f6fb01;
+  }
+  #title{
+    font-family: "Tajawal", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+  }
